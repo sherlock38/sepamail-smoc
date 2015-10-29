@@ -1,0 +1,1 @@
+SMOC (SepaMail Output Cryptographic) is a component that wraps a SEPAmail missive, sends and synchronizes with an IMAP account.
